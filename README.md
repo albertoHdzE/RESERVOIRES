@@ -1,4 +1,5 @@
 # RESERVOIRES
+## explanation [here](https://sites.google.com/view/complexai/cascade-reservoirs-operation-optimization)
 Zhiqiang Jiang, in his ["Two Dimension Reduction Methods for Multi-Dimensional Dynamic Programming and Its Application in Cascade Reservoirs Operation Optimization"](https://scinapse.io/papers/2750306011) propose two optimization methods based on dynamic programming to solve in eficient manner the way to find the operation calendar of a cascade system reservoirs.
 In this project I replicate Jiang methods and I make an implementation of them in MATLAB for [IMTA](https://www.gob.mx/imta).
 
